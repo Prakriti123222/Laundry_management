@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226968363277",
+    "project_id": "insiit",
+    "storage_bucket": "insiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226968363277:android:52edc7e32455c2ab931044",
+        "android_client_info": {
+          "package_name": "com.example.insiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226968363277-9psoqp1ipgiuf17q2uuin7bo8c2ruqcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.insiit",
+            "certificate_hash": "31283c3404c8f899251da100b356302bb200826b"
+          }
+        },
+        {
+          "client_id": "226968363277-erahha58ed5lrltua4j0mnap7fb3c9qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCQDtNObI9VDEiu40mSUiyVitc8Gkzdr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226968363277-erahha58ed5lrltua4j0mnap7fb3c9qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
